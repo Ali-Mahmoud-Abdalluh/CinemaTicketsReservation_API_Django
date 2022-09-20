@@ -25,8 +25,8 @@ Using django-jazzmin lib to make the dashboard looks better
 
     OR you can use the env that i include in this project and go directly to step 2 and 4  
 ## Superuser Account :
-Username : admin
-Password : password
+* Username : admin
+* Password : password
 
 
 
